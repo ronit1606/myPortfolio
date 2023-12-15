@@ -9,12 +9,12 @@ import { faCodepen, faGithub, faInstagram, faLinkedin } from '@fortawesome/free-
 
 const Sidebar = () => (
     <div className="nav-bar">
-        <Link className="logo" to='/'>
+        <Link className="logo" to='/myPortfolio'>
             <img src={LogoS} alt="logo" />
             {/* <img className='sub-logo' src={LogoSubtitle} alt="slobodan" /> */}
         </Link>
         <nav>
-            <NavLink exact="true" activeclassname = 'active' to='/'>
+            <NavLink exact="true" activeclassname = 'active' to='/myPortfolio'>
                 <FontAwesomeIcon icon={faHome} color='#3fb8ff' />
             </NavLink>
             <NavLink exact="true" activeclassname = 'active' className="about-link" to='/about'>
