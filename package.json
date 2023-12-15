@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ronit1606.github.io/my_portfolio",
+  "homepage": "http://ronit1606.github.io/myPortfolio",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -51,6 +51,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.0"
   }
 }
