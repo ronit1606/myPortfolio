@@ -1,13 +1,13 @@
 {
     "portfolio": [
        {
-        "cover": "/assets/1/one.png",
+        "cover": "/portfolio/1/one.png",
         "title": "Portfolio Website",
         "description": "React, JSX, SCSS, Animate.css, EmailJS",
         "url": "/myPortfolio"
        }, 
        {
-        "cover": "/assets/1/two.png",
+        "cover": "/portfolio/1/two.png",
         "title": "Menstruguide",
         "description": "HTML, CSS, JS, MongoDB, Machine Learning",
         "url": "https://ronit1606.github.io/MenstruGuide/"

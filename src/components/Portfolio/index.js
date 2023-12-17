@@ -26,7 +26,7 @@ const Portfolio = () => {
             portfolio.map((port, idx) => {
               return (
                  <div className="image-box" key={idx}>
-                    <img src={port.cover} alt="portfolio" className='portfolio-image' />
+                    <img src={process.env.PUBLIC_URL + port.cover} alt="portfolio" className='portfolio-image' />
                     <div className="content">
                       <p className='title'>{port.title}</p>
                       <h4 className='description'>{port.description}</h4>
