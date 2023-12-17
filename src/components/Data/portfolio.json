@@ -1,25 +1,25 @@
 {
     "portfolio": [
        {
-        "cover": "./assets/1/one.PNG",
+        "cover": "/assets/1/one.png",
         "title": "Portfolio Website",
         "description": "React, JSX, SCSS, Animate.css, EmailJS",
         "url": "/myPortfolio"
        }, 
        {
-        "cover": "./assets/1/two.png",
+        "cover": "/assets/1/two.png",
         "title": "Menstruguide",
         "description": "HTML, CSS, JS, MongoDB, Machine Learning",
         "url": "https://ronit1606.github.io/MenstruGuide/"
        },
        {
-        "cover": "./portfolio/1/three.png",
+        "cover": "/portfolio/1/three.png",
         "title": "Jeevan Maitree",
         "description": "HTML, CSS, JS, ExpressJS, NodeJs, MongoDB",
         "url": "https://github.com/ronit1606/Jeevan_Maitree"
        },
        {
-        "cover": "./portfolio/1/four.png",
+        "cover": "/portfolio/1/four.png",
         "title": "Edumania",
         "description": "HTML, CSS, Google Sites",
         "url": "https://sites.google.com/view/edumania-buyusedbooks"

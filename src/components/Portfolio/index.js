@@ -5,7 +5,6 @@ import AnimatedLetters from '../AnimatedLetters'
 // import portfolioData from '../../Data/portfolio.json'
 import portfolioData from '../../components/Data/portfolio.json'
 
-
 const Portfolio = () => {
 
     const [letterClass, setletterClass] = useState('text-animate')
@@ -24,7 +23,7 @@ const Portfolio = () => {
       return (
         <div className="images-container">
           {
-            portfolio.map((port,  idx) => {
+            portfolio.map((port, idx) => {
               return (
                  <div className="image-box" key={idx}>
                     <img src={port.cover} alt="portfolio" className='portfolio-image' />
